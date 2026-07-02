@@ -1,0 +1,13 @@
+# لا يُرفع أبداً — يحتوي جلسة/كوكيز فعلية
+auth_state.json
+
+# ملفات تشخيص مؤقتة
+debug_screenshot.png
+
+# بيئة افتراضية
+venv/
+__pycache__/
+*.pyc
+
+# Playwright browser cache (لو نزّل محلياً)
+.playwright/
